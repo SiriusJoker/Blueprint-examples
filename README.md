@@ -3,6 +3,7 @@ This is some of a blueprints I did for a demo mobile project https://www.youtube
 
 When we enter the game we need to enter our name, and the blueprint below save the name, and start the game.
 Blueprint called by pressing OK button
+
 <img width="854" alt="Screenshot_3" src="https://github.com/SiriusJoker/Blueprint-examples/assets/38983774/3cdbe351-dabf-41a1-889b-95e43a33efb6">
 
 The blueprint below starts dialog animation and returns to the game UI after the dialog ends.
